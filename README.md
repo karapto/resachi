@@ -1,11 +1,9 @@
-linnabot
+Resachi
 ====
 
-JK linebot using docomo dialog api
+linebot using docomo dialog api
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
-See [Qiita]().
 
 ## Requirement
 
