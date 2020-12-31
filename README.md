@@ -21,10 +21,6 @@ linebot using docomo dialog api
 
 [MIT License](https://github.com/shiraco/linebot/blob/master/LICENSE)
 
-## Author
-
-[shiraco](https://github.com/shiraco)
-
 ## Reference
 
 * [LINE Developers - BOT API - Overview](https://developers.line.me/bot-api/overview)
